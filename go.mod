@@ -1,3 +1,3 @@
-module github.com/fangminyu/go_mod_test
+module github.com/fangminyu/gomodtest
 
-go 1.16
+go 1.13

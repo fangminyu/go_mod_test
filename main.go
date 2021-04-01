@@ -1,9 +1,9 @@
 package main
 
 import (
-	"go_mod_test"
+	"github.com/fangminyu/gomodtest/util"
 )
 
 func main() {
-	go_mod_test.HelloWorld()
+	util.HelloWord()
 }
