@@ -1,4 +1,4 @@
-package gomodtest
+package go_mod_test
 
 import "testing"
 
